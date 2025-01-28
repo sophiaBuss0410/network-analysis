@@ -3,3 +3,18 @@ networks_env/
 Tutorials/
 *.zip
 *.ipynb
+submission*/
+*draft.py
+
+Assignments\Assignment 2\measure-plot-barabasi_albert_graph.png
+Assignments\Assignment 2\measure-plot-fast_gnp_random_graph.png
+Assignments\Assignment 2\measure-plot-newman_watts_strogatz_graph.png
+Assignments\Assignment 2\measure-plot-random_k_out_graph.png
+Assignments\Assignment 2\measure-plot-scale_free_graph.png
+Assignments\Assignment 2\network-plot-barabasi_albert_graph.png
+Assignments\Assignment 2\network-plot-fast_gnp_random_graph.png
+Assignments\Assignment 2\network-plot-newman_watts_strogatz_graph.png
+Assignments\Assignment 2\network-plot-p2p-Gnutella08.png
+Assignments\Assignment 2\network-plot-random_k_out_graph.png
+Assignments\Assignment 2\network-plot-scale_free_graph.png
+Assignments\Assignment 2\output.png
